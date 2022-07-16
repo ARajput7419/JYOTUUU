@@ -18,7 +18,7 @@ public class MethodSession2 {
     }
 
 
-    static int hello(int... aniket) {
+    static int hello(int ... aniket) {
         // int [] data = aniket;
         System.out.println("value at index 0 "+aniket[0]);
 
